@@ -7,4 +7,4 @@ List of software packages
 - Hamiltonian Monte Carlo
 
 Analysis
-- NYC taxi k-means
+- k-means NYC Taxi
